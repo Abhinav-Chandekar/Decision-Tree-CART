@@ -1,7 +1,7 @@
 install.packages("rpart.plot")
 # -------------------- Decision Tree: CART ----------------------------------#
 # read data
-cart_data <- read.csv("http://dni-institute.in/blogs/wp-content/uploads/2017/07/dt_data.csv")
+cart_data <- read.csv("C:\\Users\\abhinav\\Desktop\\Term 4\\AMMA\\dt_data.csv")
 
 # Build a Decision Tree
 
